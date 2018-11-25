@@ -1,0 +1,13 @@
+.container {
+    padding-bottom: 10px
+}
+
+.total {
+    margin-left: 30px;
+    font-size: 75%;
+    display: inline
+}
+
+.cardTitle {
+    font-size: 125%
+}
